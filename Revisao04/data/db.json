@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Amanha nao tem aula!",
+            "texto": "Graças a Deus"
+        },
+        {
+            "id": 2,
+            "titulo": "Jéssica tirou 10!",
+            "texto": "Graças a Deus"
+        },
+        {
+            "id": 3,
+            "titulo": "O projeto ficou maravilhoso!",
+            "texto": "Graças a Deus"
+        }
+    ]
+}
