@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Nova vacina contra gripe é anunciada",
+            "texto": "Pesquisadores anunciaram uma nova vacina contra a gripe sazonal com eficácia ampliada. A novidade promete oferecer proteção contra diversas variantes do vírus, reduzindo significativamente os casos graves.",
+            "imagem": "/Noticias/n1.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "Tecnologia 6G está em fase de testes",
+            "texto": "Especialistas confirmaram o início dos testes para redes 6G, que prometem velocidades de internet até 100 vezes mais rápidas que o 5G. A implementação comercial ainda levará alguns anos, mas os avanços são promissores.",
+            "imagem": "/Noticias/n2.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "Novo filme quebra recordes de bilheteria",
+            "texto": "O mais recente lançamento de um grande estúdio de cinema quebrou recordes de bilheteria em sua semana de estreia. O longa foi amplamente elogiado por sua trama envolvente e efeitos visuais inovadores.",
+            "imagem": "/Noticias/n3.jpg"
+        }
+    ]
+}

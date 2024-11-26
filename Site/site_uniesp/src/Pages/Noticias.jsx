@@ -30,7 +30,7 @@ const Noticias = () => {
                             <CardMedia
                                 component="img"
                                 height="140"
-                                image="https://images.unsplash.com/photo-1556761175-4b46a572b786?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGNvbGxlZ2V8ZW58MHx8fHwxNjI2NzUwNzY0&ixlib=rb-1.2.1&q=80&w=400"
+                                image={noticia.imagem}
                                 alt="Imagem da Notícia"
                             />
                             <CardContent>
