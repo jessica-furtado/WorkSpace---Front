@@ -16,7 +16,7 @@ const BannerAd = () => {
   return (
     <StyledBannerAd>
       <img
-        src="/VESTIBULAR.jpg"
+        src="./VESTIBULAR.jpg"
         alt="Banner do Vestibular"
         style={{ width: '100%', height: '300px', borderRadius: '8px' }}
       />

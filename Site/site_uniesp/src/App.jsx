@@ -5,6 +5,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Navbar from './Components/Navbar'
 import BannerAd from './Components/BannerAd'
 import Inicial from './Pages/Inicial'
+import Faculdade from './Pages/Faculdade'
+import DpoLgpd from './Pages/DpoLgpd'
 
 const App = () => {
   return (
@@ -20,6 +22,8 @@ const App = () => {
         <Box mt={4}>
           <Routes>
             <Route path="/" element={<Inicial />} />
+            <Route path="/a-faculdade" element={<Faculdade />} />
+            <Route path="/dpo-lgpd" element={<DpoLgpd />} />
           </Routes>
         </Box>
       </Container>
