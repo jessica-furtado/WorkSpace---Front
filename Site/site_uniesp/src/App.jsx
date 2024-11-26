@@ -7,6 +7,7 @@ import BannerAd from './Components/BannerAd'
 import Inicial from './Pages/Inicial'
 import Faculdade from './Pages/Faculdade'
 import DpoLgpd from './Pages/DpoLgpd'
+import Noticias from './Pages/Noticias'
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
             <Route path="/" element={<Inicial />} />
             <Route path="/a-faculdade" element={<Faculdade />} />
             <Route path="/dpo-lgpd" element={<DpoLgpd />} />
+            <Route path="/noticias" element={<Noticias />} />
           </Routes>
         </Box>
       </Container>
