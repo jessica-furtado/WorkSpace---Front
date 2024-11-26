@@ -1,9 +1,12 @@
-Site Uniesp:
+**Projeto: Site Uniesp**
+====================
 
 Este projeto consiste no desenvolvimento de um site para a Faculdade Uniesp, utilizando React como biblioteca principal para a construção da interface.
 
 -----------------------------------------------------------------------------------------------------------------------
-Arquitetura do Projeto:
+**Arquitetura do Projeto:**
+
+A estrutura de pastas do projeto foi organizada da seguinte maneira:
 
 site_uniesp
 
@@ -63,7 +66,7 @@ public
   
 -----------------------------------------------------------------------------------------------------------------------
 
-Funcionalidades Principais:
+**Funcionalidades Principais:**
 
 - Página Inicial: Apresentação geral da faculdade.
 - DPO e LGPD: Informações detalhadas sobre proteção de dados.
@@ -71,7 +74,7 @@ Funcionalidades Principais:
 - Administração de Notícias: Criar, editar e excluir notícias através de uma interface amigável.
 -----------------------------------------------------------------------------------------------------------------------
 
-Bibliotecas Utilizadas:
+**Bibliotecas Utilizadas:**
 
 O projeto utiliza as seguintes bibliotecas:
 
@@ -83,7 +86,7 @@ O projeto utiliza as seguintes bibliotecas:
 - Vite: Ferramenta para build e desenvolvimento rápido.
 -----------------------------------------------------------------------------------------------------------------------
 
-Guia de Configuração e Execução:
+**Guia de Configuração e Execução:**
 cd site_uniesp
 
 Instale as dependências:
@@ -106,7 +109,7 @@ Acesse o projeto no navegador: O projeto estará disponível em http://localhost
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Descrição dos Arquivos e Pastas:
+**Descrição dos Arquivos e Pastas:**
 
 Pasta Data
 db.json: Arquivo JSON que simula o backend, armazenando as notícias.
@@ -140,7 +143,7 @@ Lista as dependências e scripts do projeto.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Rotas do Sistema:
+**Rotas do Sistema:**
 
 /: Página inicial.
 
@@ -157,6 +160,20 @@ Rotas do Sistema:
 /cadastrar-noticia: Cadastro de novas notícias.
 
 /editar-noticia/:id: Edição de notícias existentes.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+**Licença:**
+
+Este projeto está licenciado sob a MIT License. Você pode usá-lo livremente para fins pessoais ou comerciais.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+**Contato:**
+
+-   **Nome**: Jessica Furtado
+-   **Email**: jessicafurtado.adm@gmail.com
+-   **LinkedIn**: [Perfil no LinkedIn](https://linkedin.com/in/jéssica-furtado-632005a0/)
 
 -----------------------------------------------------------------------------------------------------------------------
 
